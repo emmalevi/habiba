@@ -2,15 +2,18 @@
   justify-content: space-between;
   background: white;
   height: 9vh;
+  font-color:black;
+  }
 
 #navbarlogo {
   font-family: Satisfy;
+  color:black;
   font-size: 45px;
   font-weight: bold;
   margin-left: 20vh;
   height: 5vh;
 }
-}
+
 
 .navbar-lewagon .navbar-collapse {
   flex-grow: 0;
@@ -22,8 +25,7 @@
 }
 
 .navbar-lewagon .nav-link {
-  font-color: black;
+  color: black;
   font-size: 20px;
+  margin:21px 50px 25px 4px;
 }
-
-
